@@ -12,4 +12,4 @@ ilk olarak indirdiğiniz dosyaları düzenlemeniz gerekiyor
 header.php, single.php, page.php ve index.php dosyaları içindeki dosya yollarını kendi alan adınızla birlikte düzenlemeniz gerekiyor
 wordpress temaları yüklediğiniz klosör içine kopyalayın daha sonrasında temayı etkinleştirin.
 
-Demo için bu adrese bakabilirsiniz https://radyodi.com/
+Demo için bu adrese bakabilirsiniz <a href="https://radyodi.com/" rel="nofollow">radyo dinle</a>
